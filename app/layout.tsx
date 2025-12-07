@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Greek Learning Game",
-  description: "Learn Greek by playing typing games!",
+  title: "Zoi Pantou | Systemic Psychotherapist & Psychologist",
+  description:
+    "Licensed Systemic Psychotherapist and Psychologist based in Greece. Available for online sessions worldwide in English and Greek.",
 };
 
 export default function RootLayout({
